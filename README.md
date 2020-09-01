@@ -38,7 +38,7 @@ Add deployment of services and required information to the JSON.
 
 ## Authors
 
-The setup and this file were created by [Luc Geurts](https://lgeurts.github.io). Creds to [Jeff Brown](https://github.com/JeffBrownTech) for the idea and base configs.
+This config was created by [Luc Geurts](https://lgeurts.github.io). Creds to [Jeff Brown](https://github.com/JeffBrownTech) for the idea and initial setup.
 
 <3
 
