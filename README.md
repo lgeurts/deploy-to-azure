@@ -1,4 +1,4 @@
-[![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/lgeurts/deply-to-azure/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/lgeurts/deploy-to-azure/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Flgeurts%2Fdeploy-to-azure%2Fmaster%2Ftemplate.json)
 
