@@ -29,7 +29,7 @@ Required information:
 - Administrator name.
 - Password.
 
-I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button) in Microsoft Docs for adding a Deploy to Azure button. It's pretty straight forward using some PowerShell or an [online tool](https://www.urlencoder.org/) to encode the URL.
+I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button) in Microsoft Docs for adding a Deploy to Azure button. Pretty straight forward using some PowerShell or an [online tool](https://www.urlencoder.org/) to encode the URL.
 
 ## Next Steps
  Addthe deployment of services and required information to the JSON.
