@@ -2,7 +2,7 @@
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Flgeurts%2Fdeploy-to-azure%2Fmaster%2Ftemplate.json)
 
-***HUISMAN EQUIPMENT B.V., Schiedam, the Netherlands***
+***Created for HUISMAN EQUIPMENT B.V., Schiedam, the Netherlands***
 
 This repository contains a fully-functioning pipeline that will use a push-to-portal button to deploy a virtual machine in Azure. Because I am mostly Linux focused the template uses a CenTOS image but this is easily changed.
 
