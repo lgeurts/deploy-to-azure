@@ -4,7 +4,7 @@
 
 ***Created for HUISMAN EQUIPMENT B.V., Schiedam, the Netherlands***
 
-This repository contains a fully-functioning demo pipeline that uses a push-to-portal button to deploy a virtual machine in Azure. 
+This repository contains a fully-functioning push-to-portal button to deploy a virtual machine in Azure. 
 Because I am mostly Linux focused the template uses a CentOS image but this is easily changed.
 
 ## Prerequisites
