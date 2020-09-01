@@ -4,9 +4,11 @@
 
 ***Created for HUISMAN EQUIPMENT B.V., Schiedam, the Netherlands***
 
-This repository contains a fully-functioning pipeline that will use a push-to-portal button to deploy a virtual machine in Azure. Because I am mostly Linux focused the template uses a CenTOS image but this is easily changed.
+This repository contains a fully-functioning demo pipeline that will use a push-to-portal button to deploy a virtual machine in Azure. Because I am mostly Linux focused the template uses a CentOS image but this is easily changed.
 
-## Prerequisites
+I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button) in Microsoft Docs for deploying an Azure button. It's pretty straight forward using some PowerShell or an [online tool](https://www.urlencoder.org/) to encode the URL.
+
+# Prerequisites
 
 A template and GitHub account.
 
@@ -24,20 +26,18 @@ Required information:
 - Azure subscription.
 - Resource group.
 - Region (auto-selected from resource group region).
-- Virtual machine name
+- Virtual machine name.
 - Administrator name.
 - Password.
 
-I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button) in Microsoft Docs for deploying an Azure button. It's pretty straight forward using some PowerShell or an [online tool](https://www.urlencoder.org/) to encode the URL.
-
 ## Next Steps
-Need to add deployment of services etc.
+Add deployment of services and required information to the JSON.
 
                         <kbd>[WARNING]: THIS TEMPLATE IS ONLY AVAILABLE ON APPROVAL BY YOUR MANAGER!</kbd>
 
 ## Authors
 
-The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io) and has contributions from [Paulo Schwab Rocha](https://github.com/pschwab1).
+The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io).
 
 <3
 
