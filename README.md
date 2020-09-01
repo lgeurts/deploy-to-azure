@@ -1,4 +1,4 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Flgeurts%2Fdeploy-to-azure%2Fmaster%2Ftemplate.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Flgeurts%2Fdeploy-to-azure%2Fmaster%2Ftemplate.json)
 
 # Linux Lab Azure Deployment
 
