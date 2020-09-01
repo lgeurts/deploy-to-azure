@@ -38,7 +38,7 @@ I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/
 
 ## Authors
 
-The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io). Creds to [JeffBrownTech](https://github.com/JeffBrownTech).
+The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io). Creds to [Jeff Brown](https://github.com/JeffBrownTech).
 
 <3
 
