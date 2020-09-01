@@ -32,13 +32,13 @@ Required information:
 I followed the instructions found [here](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button) in Microsoft Docs for adding a Deploy to Azure button. It's pretty straight forward using some PowerShell or an [online tool](https://www.urlencoder.org/) to encode the URL.
 
 ## Next Steps
-Add the deployment of services and required information to the JSON.
+ Addthe deployment of services and required information to the JSON.
 
                         <kbd>[WARNING]: THIS TEMPLATE IS ONLY AVAILABLE ON APPROVAL BY YOUR MANAGER!</kbd>
 
 ## Authors
 
-The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io).
+The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io). Creds to [JeffBrownTech](https://github.com/JeffBrownTech).
 
 <3
 
